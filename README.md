@@ -19,7 +19,7 @@ My goal is to develop practical, high-impact AI systems and contribute to resear
 ## 🔥 Featured Projects
 
 ### 🔹 Training-Free ROI Selection for GUI Grounding
-- Submitted to ECCV 2026 (top-tier conference)
+- Submitted to ECCV (top-tier conference)
 - Proposes semantic vector fields for training-free UI element localization
 - Improves robustness in complex GUI environments
 
