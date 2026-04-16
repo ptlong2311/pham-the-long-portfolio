@@ -51,12 +51,5 @@ Python | PyTorch | ROS | MQTT | OPC UA | NLP | VLM
 
 ---
 
-## 🏆 Achievements
-- Five-Good Student (2022), HUST  
-- Top 3 Undergraduate Thesis, HUST  
-- Full Scholarship (M.S.), Sejong University  
-
----
-
 ## 📫 Contact
 Email: ptlong231@gmail.com
