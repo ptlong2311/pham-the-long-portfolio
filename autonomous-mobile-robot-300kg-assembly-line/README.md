@@ -1,6 +1,6 @@
 # Autonomous Mobile Robot 300kg
 
-An industrial Autonomous Mobile Robot (AMR) designed for transporting KIA Cerato exhaust pipes inside the THACO Mechanical Complex. This project focuses on replacing labor-intensive and inflexible towing-based transport with a compact lifting AMR that can autonomously navigate, avoid obstacles, and handle payload transfer more efficiently.
+An industrial **Autonomous Mobile Robot (AMR)** designed for transporting **KIA Cerato exhaust pipes** inside the **THACO Mechanical Complex**. This project focuses on replacing labor-intensive and inflexible **towing-based transport** with a **compact lifting AMR** that can **autonomously navigate**, **avoid obstacles**, and **handle payload transfer more efficiently**.
 
 ## Overview
 
