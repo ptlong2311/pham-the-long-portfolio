@@ -13,9 +13,9 @@ Existing grounding models struggle when:
 - Screens contain **irrelevant visual noise**
 - Attention is **distracted by similar components**
 
-To address this, we propose **SpotlightSVF**, a **training-free ROI selection framework** that refines the search space before grounding.
+To address this, we propose  a **training-free ROI selection framework** that refines the search space before grounding.
 
-Instead of relying on attention maps, SpotlightSVF:
+Instead of relying on attention maps:
 - Models **semantic relationships between patches**
 - Builds a **vector field in embedding space**
 - Extracts a **clean, instruction-aware ROI**
@@ -39,7 +39,7 @@ These form a **semantic vector field**, where:
 
 ## Contributions
 
-- Propose **SpotlightSVF**, a **training-free grounding refinement method**
+- Propose a **training-free grounding refinement method**
 - Introduce **semantic vector field modeling**
 - Enable **plug-and-play integration** with existing models
 - Achieve **consistent performance gains** across benchmarks
@@ -119,7 +119,7 @@ Traditional methods:
 - Attention-based → noisy
 - Token-based → unstable
 
-SpotlightSVF:
+Method:
 - Uses **semantic structure in embedding space**
 - Captures **spatial + semantic relationships**
 - Filters noise **before grounding**
