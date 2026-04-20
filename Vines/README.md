@@ -1,6 +1,6 @@
 # Factory Digitization for MES Integration, Barcode Automation, and Label Printing
 
-A factory digitization project for the VinES factory under Vingroup, focused on streamlining production data flow by processing MES data, extracting APIs, and automating barcode generation and label printing for inner-box tracking. The system was designed to reduce manual entry, improve traceability, and standardize labeling workflows across manufacturing operations.
+A **factory digitization project** for the VinES factory under Vingroup, focused on streamlining production data flow by **processing MES data**, **extracting APIs**, and **automating barcode generation** and **label printing** for inner-box tracking. The system was designed to reduce manual entry, improve traceability, and standardize labeling workflows across manufacturing operations.
 
 ## Overview
 
