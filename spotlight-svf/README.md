@@ -1,4 +1,4 @@
-# SpotlightSVF: Training-Free Semantic Vector Field for GUI Grounding
+# Training-Free Semantic Vector Field for GUI Grounding
 
 A novel **training-free GUI grounding enhancement method** that improves localization accuracy in complex, high-resolution interfaces using a **semantic vector field-based ROI selection mechanism**. The method integrates seamlessly with existing grounding models and boosts performance without retraining.
 
